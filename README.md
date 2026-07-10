@@ -7,3 +7,7 @@ This is a simple README file for testing OpenHands.
 1. Clone the repository
 2. Install dependencies
 3. Run the application
+
+## Modified
+
+This README has been modified.
